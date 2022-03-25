@@ -1,0 +1,33 @@
+Datos fin de partida
+ ----------------------------------------------------
+|La partida ha terminado, estos son los datos finales|
+ ----------------------------------------------------
+Vida de Frank: 25.0
+Mano de Frank:
+-Bola de fuego
+-Golem industrial
+-Pacto demoniaco
+-Bola de fuego
+-Castillo
+-Subdito Industrial
+-Golem Salvaje
+-Castillo
+
+Cementerio de Frank:
+ No tiene cartas en el cementerio
+Vida de Pau: -3.0
+Mano de Pau:
+-Subdito Rocoso
+-Fuente de Vida
+-Castillo
+-Golem industrial
+-Barricada
+-Golem industrial
+-Pacto demoniaco
+-Golem Salvaje
+-Castillo
+
+Cementerio de Pau:
+-Castillo
+-Subdito Industrial
+-Golem industrial
