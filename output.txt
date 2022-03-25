@@ -1,0 +1,65 @@
+------------------------------------------------------
+Turno 0
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+asdasd, has robado la carta Barricada de tu mazo
+------------------------------------------------------
+Turno 1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+asdasdasd ha sacado un/una Castillo
+asdasdasd, no es tu turno!
+asdasdasd, has robado la carta Castillo de tu mazo
+------------------------------------------------------
+Turno 2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+asdasd ha sacado un Golem Rocoso
+asdasd, has robado la carta Golem industrial de tu mazo
+------------------------------------------------------
+Turno 3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+asdasdasd, has robado la carta Subdito Rocoso de tu mazo
+------------------------------------------------------
+Turno 4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+asdasd, has robado la carta Bola de fuego de tu mazo
+------------------------------------------------------
+Turno 5
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+asdasdasd se ha defendido con un/una Castillo
+asdasd, has atacado al jugador asdasdasd y su defensa ha perdido 2.0 de vida
+asdasd, la carta con la que has atacado ahora tiene 3.0
+asdasdasd, has robado la carta Golem industrial de tu mazo
+------------------------------------------------------
+Turno 6
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+asdasd ha atacado al jugador enemigo con un Bola de fuego
+Ha ganado asdasd
+ ----------------------------------------------------
+|La partida ha terminado, estos son los datos finales|
+ ----------------------------------------------------
+Vida de asdasd: 1.0
+Mano de asdasd:
+-Golem Rocoso
+-Pacto demoniaco
+-Castillo
+-Golem Rocoso
+-Subdito Industrial
+-Subdito Salvaje
+-Barricada
+-Golem industrial
+ 
+Cementerio de asdasd:
+ No tiene cartas en el cementerio
+Vida de asdasdasd: -2.0
+Mano de asdasdasd:
+-Barricada
+-Castillo
+-Pacto demoniaco
+-Subdito Industrial
+-Castillo
+-Pacto demoniaco
+-Castillo
+-Subdito Rocoso
+-Golem industrial
+ 
+Cementerio de asdasdasd:
+ No tiene cartas en el cementerio
